@@ -6,12 +6,14 @@ I am always studying the best software design principles and trying to keep up w
 
 Outside of studying, you'll find me doing a plethora of things:
 - ⚡ Hackathons and WeCracked (co-founder)
--🇵🇭 SAFA (Student Association of Filipino Americans, Event Coordinator)
+- 🇵🇭 SAFA (Student Association of Filipino Americans, Event Coordinator)
 - 📺 Watching F1 or Anime
 - 📚 Reading
 - 💪 Gyming
 - ✈️ Traveling
 - 🏎️ Driving cars or riding motorcycles
+
+Feel free to send me a DM on LinkedIn if you want to connect :)
 
 <!--
 **kllarena07/kllarena07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
