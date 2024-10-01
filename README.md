@@ -1,4 +1,17 @@
-### Hello! 👋 Kamusta Ka
+### Hey! I'm Kieran 👋
+
+I'm currently pursuing a BS in Computer Science @ the University of Michigan-Dearborn (expected graduation May 2027). Go Blue! 〽️
+
+I am always studying the best software design principles and trying to keep up with the ever evolving world of software. My dream is to become a Software Engineer at Google or Meta.
+
+Outside of studying, you'll find me doing a plethora of things:
+- ⚡ Hackathons and WeCracked (co-founder)
+-🇵🇭 SAFA (Student Association of Filipino Americans, Event Coordinator)
+- 📺 Watching F1 or Anime
+- 📚 Reading
+- 💪 Gyming
+- ✈️ Traveling
+- 🏎️ Driving cars or riding motorcycles
 
 <!--
 **kllarena07/kllarena07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
