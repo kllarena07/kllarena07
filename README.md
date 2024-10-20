@@ -1,6 +1,6 @@
 ### Hey! I'm Kieran 👋
 
-I'm currently pursuing a BS in Computer Science @ the University of Michigan-Dearborn (expected graduation May 2027). Go Blue! 〽️
+I'm currently pursuing a BS in Computer Science @ the University of Michigan-Dearborn (expected May 2027). Go Blue! 〽️
 
 I am always studying the best software design principles and trying to keep up with the ever evolving world of software. My dream is to become a Software Engineer at Google or Meta.
 
