@@ -6,14 +6,13 @@ I am always studying the best software design principles and trying to keep up w
 
 Outside of studying, you'll find me doing a plethora of things:
 - 🇵🇭 Filipino Americans in Tech (Founder)
-- ⚡ Hackathons
-- 📺 Watching F1 or Anime
-- 📚 Reading
+- ⚡ Hackathons and building projects
+- 📺 Watching anime or movies
 - 💪 Gyming
 - ✈️ Traveling
 - 🏎️ Driving cars or riding motorcycles
 
-Feel free to send me a DM on LinkedIn if you want to connect :)
+Feel free to send me a DM on LinkedIn if you want to connect. You can also find my on Twitter at @krayondev :)
 
 <!--
 **kllarena07/kllarena07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
