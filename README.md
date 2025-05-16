@@ -2,7 +2,7 @@
 
 I'm currently pursuing a BS in Computer Science @ the University of Michigan-Dearborn (expected May 2027). Go Blue! 〽️
 
-I am always studying the best software design principles and trying to keep up with the ever evolving world of software. My dream is to become a Software Engineer at Google.
+I am always studying the best software design principles and trying to keep up with the ever evolving world of software. My dream is to become a Principle Engineer at Google.
 
 Outside of studying, you'll find me doing a plethora of things:
 - 🇵🇭 Filipino Americans in Tech (Founder)
