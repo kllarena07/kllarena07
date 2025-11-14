@@ -2,4 +2,4 @@
 
 You can find my portfolio at either `ssh krayon.dev` or [https:/krayon.dev](https:/krayon.dev)
 
-Feel free to send me contact me on LinkedIn at kllarena07 or on Twitter at @krayondev (:
+Wanna chat? Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/kllarena07/) or [Twitter](https://x.com/krayondev)
